@@ -38,7 +38,7 @@
     </a>
     
  <a href="https://github.com/samagraag/samagraag">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=samagraag&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Deepesh%20Bhardwaj%27s%20Github%20Stats" alt="Samagra's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=samagraag&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Samagra%20Agrawal%27s%20Github%20Stats" alt="Samagra's GitHub Stats" />
     </a>
     <br><br>
     
