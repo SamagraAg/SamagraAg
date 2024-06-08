@@ -22,7 +22,7 @@
 
 ## Connect with me⚡
 <p align="left" style="margin: 0 5px;">
-<a href="https://linkedin.com/in/samagraag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samagraag" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samagra-agrawal-b65055212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samagraag" height="30" width="40" /></a>
 <a href="https://instagram.com/samagra__26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samagra__26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samagra26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samagra26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/geeky_samagra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geeky_samagra" height="30" width="40" /></a>
