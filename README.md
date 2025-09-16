@@ -12,9 +12,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samagraag" alt="samagraag" /></a> </p> -->
 <img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently in **Sophomore in Computer Science**
+- 🔭 **Computer Science Graduate**
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently learning **Springboot**
 
 - 👯 I’m looking to collaborate on different projects
 
